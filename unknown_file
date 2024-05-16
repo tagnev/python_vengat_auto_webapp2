@@ -1,0 +1,23 @@
+# Flask Web App
+
+This is a simple Flask web app that displays a "Hello, World!" message.
+
+## Setup
+
+1. Install the required dependencies:
+   ```
+   pip install Flask
+   ```
+
+2. Run the Flask web app:
+   ```
+   python app.py
+   ```
+
+3. Open a web browser and go to http://127.0.0.1:5000/ to see the "Hello, World!" message.
+
+## Files
+
+1. app.py - Main Flask application file.
+2. models.py - File for defining database models.
+3. routes.py - File for defining application routes.
